@@ -37,7 +37,7 @@
     <li IfModActive="rimthunderteams.rimthunder.warhorseofreich">Mods and Shit/RimThunder Warhorse of the Reich</li>
     <li IfModActive="rimthunderteams.rimthunder.waytosamurai">Mods and Shit/RimThunder Way to Samurai</li>
     <li IfModActive="myde.aerocraftframework">Mods and Shit/Aerocraft Framework</li>
-    <li IfModActive="Adaptive.Storage.Neolithic">Mods and Shit/Adaptive Storage Neolithic</li>
+    <li IfModActive="Adaptive..Neolithic">Mods and Shit/Adaptive  Neolithic</li>
 
 
     <!-- BATCH PATCHES  -->
@@ -96,7 +96,7 @@
     <li IfModActive="vanillaexpanded.vgeneticsemorelabstuff">Mods and Shit/VGE More</li>
     <li IfModActive="animal.bedsnew">Mods and Shit/More Animal Beds</li>
     <li IfModActive="sarg.alphaimplants">Mods and Shit/Alpha Implants</li>
-    <li IfModActive="reel.expanded.storage">Mods and Shit/Reel's Storage</li>
+    <li IfModActive="reel.expanded.">Mods and Shit/Reel's </li>
     <li IfModActive="owlchemist.giddyup">Mods and Shit/Giddy Up 2</li>
     <li IfModActive="mlie.runandhide">Mods and Shit/Run and Hide</li>
     <li IfModActive="zal.animalcages">Mods and Shit/Animal Cages</li>
@@ -149,7 +149,7 @@
     <li IfModActive="vemp.pipenetwork">Mods and Shit/Milk Pipe Network</li>
     <li IfModActive="oskarpotocki.vfe.deserters">Mods and Shit/VFE Deserters</li>                                           <!-- Implicit support for Pressure Plate -->
     <li IfModActive="oskarpotocki.vfe.tribals">Mods and Shit/VFE Tribals</li>
-    <li IfModActive="adaptive.storage.framework">Mods and Shit/Adaptive Storage Framework</li>
+    <li IfModActive="adaptive..framework">Mods and Shit/Adaptive  Framework</li>
     <li IfModActive="sarg.alphaprefabs">Mods and Shit/Alpha Prefabs</li>
     <li IfModActive="mlie.enterhere">Mods and Shit/Enter Here</li>
     <li IfModActive="adamas.hospital">Mods and Shit/Hospital</li>
@@ -163,7 +163,7 @@
     <li IfModActive="smxrez.laserreexamined">Mods and Shit/Laser Weapons RE</li>
     <li IfModActive="detvisor.pulseweaponry">Mods and Shit/Pulse Weaponry</li>
     <li IfModActive="detvisor.impactweaponryreloaded">Mods and Shit/Impact Weaponry</li>
-    <li IfModActive="adaptive.primitivestorage">Mods and Shit/Adaptive Primitive Storage</li>
+    <li IfModActive="adaptive.primitive">Mods and Shit/Adaptive Primitive </li>
     <li IfModActive="sarg.alphagenes">Mods and Shit/Alpha Genes</li>
     <li IfModActive="hlx.ultratechalteredcarbon">Mods and Shit/Altered Carbon</li>
     <li IfModActive="vanillaexpanded.vanillatradingexpanded">Mods and Shit/VE Trading</li>
@@ -174,8 +174,8 @@
     <li IfModActive="gy.ppextend">Mods and Shit/Power Poles Extended</li>
     <li IfModActive="rabiosus.extinguisherdrone">Mods and Shit/Extinguisher Drone</li>
     <li IfModActive="gogatio.mechanoidupgrades">Mods and Shit/Mechanoid Upgrades</li>
-    <li IfModActive="sbz.gravshipstorage">Mods and Shit/Gravship Storage</li>
-    <li IfModActive="sbz.neatstorage">Mods and Shit/Neat Storage</li>
+    <li IfModActive="sbz.gravship">Mods and Shit/Gravship </li>
+    <li IfModActive="sbz.neat">Mods and Shit/Neat </li>
     <li IfModActive="vanillaexpanded.vfepropsanddecor">Mods and Shit/VFE Props</li>
     <li IfModActive="orion.cashregister">Mods and Shit/Cash Register</li>
     <li IfModActive="adamas.hospitalitycasino">Mods and Shit/Hospitality Casino</li>
@@ -211,6 +211,7 @@
     <li IfModActive="det.epochsincense">Mods and Shit/Epochs Incense</li>
     <li IfModActive="det.epochspottery">Mods and Shit/Epochs Pottery</li>
     <li IfModActive="vin.warehouse.storage">Mods and Shit/Warehouse Storage</li>
+	<li IfModActive="asf.deepstorage">Mods and Shit/LWM's Adaptive Deep Storage</li>
     <li IfModActive="dubwise.dubsskylights">Mods and Shit/Dubs Skylights</li>
     <li IfModActive="tug.satyrfaun.expanded">Mods and Shit/Roo SFE</li>
     <li IfModActive="divineDerivative.tilledsoil">Mods and Shit/Configurable Tilled Soil</li>
@@ -792,6 +793,7 @@
     <li IfModActive="sarg.rimbees">Mods and Shit/Alpha Bees</li>
     <li IfModActive="eeg.architecture">Mods and Shit/Architecture of the Rim Corners</li>
     <li IfModActive="adaptive.simplestorage">Mods and Shit/Adaptive Simple Storage</li>
+	<li IfModActive="adaptive.ideology.storage">Mods and Shit/Adaptive Ideology Storage</li>
     <li IfModActive="gondragon.mechanoidwaiter">Mods and Shit/Mechanoid Waiter</li>
     <li IfModActive="mgatwood.housedecor">Mods and Shit/ATW House Decor</li>
     <li IfModActive="gloomy.furniture.continued.fix">Mods and Shit/Gloomy Furniture</li>
